@@ -57,14 +57,14 @@ nimanew3031/NIMA V7l?color=blue&style=flat-square"></a>
 > **1. PAIR CODE SESSION ID**
 
 <a href='https://sessions-june2.onrender.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code%20With%20June%20Md-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
 > **2. PAIR CODE SESSION ID**
 
 <a href='https://sessions-june2.onrender.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code%20With%20June%20Md%202-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
@@ -230,4 +230,5 @@ jobs:
 ...
 <a center="https://ibb.co/XkdP3hcM"><img src="https://kntn.ly/f207a2c7" alt="glow" border="0"></a>
 ***
+
 
